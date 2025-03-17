@@ -25,4 +25,5 @@ This project helps users manage tasks efficiently with an **interactive UI and s
    cd To_Do_List
 
 2. **Run the project**
+   
    Open index.html in your browser.
